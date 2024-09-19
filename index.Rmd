@@ -1,0 +1,16 @@
+---
+title: "Welcome!"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+My name is Hannah. You can find my github here: https://github.com/hmonti-m
+
+My collaborator's name is Nicole. You can find her github here: https://github.com/nicolemejia6180
+
+Here's an image of a lizard that can breath under water (sort of): 
+
+![Water anole native to Costa Rica](https://static01.nyt.com/images/2024/09/17/multimedia/17tb-scuba-lizard-02-btpm/17tb-scuba-lizard-02-btpm-superJumbo.jpg?quality=75&auto=webp)
